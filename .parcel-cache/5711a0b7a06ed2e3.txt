@@ -5,7 +5,7 @@
 118C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\@parcel\core\test\fixtures\invalid-distpath133180159565276485 1
 116C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\caniuse-lite\data\features\audiotracks.js133180159478430207 0
 91C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\inherits\LICENSE133180159355863974 0
-76C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\src\index.html133180162631425492 0
+76C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\src\index.html133180176473793769 0
 106C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\caniuse-lite\data\regions\MA.js133180159619410606 0
 97C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\xxhash-wasm\types.d.ts133180159407343033 0
 124C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\caniuse-lite\data\features\es6-string-includes.js133180159581390935 0
@@ -38,7 +38,7 @@
 84C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\path-type133180159360667181 1
 95C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\weak-lru-cache\tests133180159379249317 1
 85C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\source-map133180159427057620 1
-74C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\package.json133180159654083858 0
+74C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\package.json133180166867686743 0
 99C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\@swc\helpers\lib\_jsx.js133180159488789326 0
 106C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\caniuse-lite\data\regions\KR.js133180159618850637 0
 79C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\package-lock.json133180159654003873 0
@@ -50,10 +50,10 @@
 106C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\lmdb\dependencies\lz4\lib\lz4.c133180159455182316 0
 89C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\csso\lib\clean133180159484149845 1
 124C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133180159405183198 0
-66C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\dist133180165556650721 1
+66C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\dist133180184757840641 1
 100C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\svgo\plugins\prefixIds.js133180159468744222 0
 92C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\@msgpackr-extract133180159651924038 1
-72C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\.gitignore133180157014632436 0
+72C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\.gitignore133180181859389512 0
 108C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\caniuse-lite\data\features\ime.js133180159616770942 0
 83C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\get-port133180159360907159 1
 96C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\json5\lib\register.js133180159399583705 0
@@ -65,7 +65,7 @@
 97C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\escalade\sync\index.js133180159348311819 0
 106C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\caniuse-lite\data\regions\GL.js133180159612131280 0
 101C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\@parcel\transformer-js\src133180159400863575 1
-65C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\src133180162631425492 1
+65C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\src133180176473793769 1
 95C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\htmlnano\lib\presets133180159453018727 1
 103C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\@parcel\cache\lib\FSCache.js133180159340231171 0
 89C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\balanced-match133180159357532128 1
@@ -4299,4 +4299,4 @@
 88C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\.bin\svgo.ps1133180159636696851 0
 86C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\.bin\terser133180159636696851 0
 90C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\node_modules\.bin\terser.ps1133180159636696851 0
-77C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\dist\index.html133180165556650721 0
+77C:\Users\Admin\OneDrive\Escriptori\Bootcamp\week 1\Challenge4\dist\index.html133180184757840641 0
