@@ -1,2 +1,6 @@
 @import url("/node_modules/@fontsource/nunito/400.css");
 @import url("/node_modules/@fontsource/nunito/800.css");
+
+h1 {
+  text-transform: uppercase;
+}
