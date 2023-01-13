@@ -47,5 +47,20 @@ h1 {
   color: white;
   background-color: var(--color-accent);
   border: none;
-  border-radius: 0% 50% / 50% 50%;
+  border-radius: 10px 100px / 120px;
+}
+
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 3.25rem;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.photos_image {
+  border-radius: 30px;
+}
+
+@media screen and (min-width: 1000px) {
 }
